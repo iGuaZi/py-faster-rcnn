@@ -1,3 +1,9 @@
+### vedio detection with faster rcnn
+after you finished what followes 'Disclaimer'
+try entering directory 'tools'
+then input `python surveillance -v 1.webm`
+
+
 ### Disclaimer
 
 The official Faster R-CNN code (written in MATLAB) is available [here](https://github.com/ShaoqingRen/faster_rcnn).
